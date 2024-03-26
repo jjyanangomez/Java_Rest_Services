@@ -1,0 +1,14 @@
+package com.krakedev.persistencia;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+import com.krakedev.entidades.Cliente;
+import com.krakedev.utils.ConexionBdd;
+
+public class ClientesBDD {
+	public void insertar(Cliente c) {
+		Connection con = ConexionBdd.obtenerConexion();
+		PreparedStatement ps = con.prepareStatement(null);
+	}
+}

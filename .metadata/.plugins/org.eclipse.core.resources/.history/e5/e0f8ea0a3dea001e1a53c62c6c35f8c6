@@ -1,0 +1,7 @@
+package com.krakedev.servicios;
+
+public class ServiciosClientes {
+	public String saludar() {
+		return "HOla mundo Rest Web Services";
+	}
+}

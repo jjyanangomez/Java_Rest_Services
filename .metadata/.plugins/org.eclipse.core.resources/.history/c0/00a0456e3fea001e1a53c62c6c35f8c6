@@ -1,0 +1,17 @@
+package com.krakedev.servicios;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+//El uso del path permite redireccionar cunado se navegue en la URL
+
+@Path("clientes")
+public class ServiciosClientes {
+	
+	//MOrmalmente en el path se coloca el nombre del metodo 
+	@Path("metodo1")
+	@GET
+	public String saludar() {
+		return "HOla mundo Rest Web Services";
+	}
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=de.rieckpil.archetypes"/>
+        <listEntry value="archetypeArtifactId=javaee8"/>
+        <listEntry value="archetypeVersion=2.1.2"/>
+        <listEntry value="groupId=com.krakedev"/>
+        <listEntry value="artifactId=EjemploWebS"/>
+        <listEntry value="version=1.0.0"/>
+        <listEntry value="package=com.krakedev.EjemploWebS"/>
+        <listEntry value="outputDirectory=C:\Users\H P\Desktop\JuanJo\Curso_KrakeDev\Practicas\Modulo_2\Workspace-Java-Web"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\HP12D5~1\AppData\Local\Temp\m2e-archetypeGenerator9123229589650322111"/>
+</launchConfiguration>
