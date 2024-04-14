@@ -26,19 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.krakedev.inventario"/>
-			<item value="com.krakedev.EjemploWEb"/>
-			<item value="com.krakedev.EjemploWebS"/>
-			<item value="com.krakedev.EjemploWeb"/>
+			<item value="com.krakedev.evaluacion"/>
 		</list>
 		<list key="groupId">
 			<item value="com.krakedev"/>
 		</list>
 		<list key="artifactId">
-			<item value="inventario"/>
-			<item value="EjemploWEb"/>
-			<item value="EjemploWebS"/>
-			<item value="EjemploWeb"/>
+			<item value="evaluacion"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -50,6 +44,7 @@
 		</list>
 		<list key="version">
 			<item value="1.0.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
@@ -74,5 +69,7 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

@@ -2,7 +2,21 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.enterprise.inject.Produces"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.krakedev.inventario.entidades.Producto"/>
     <fullyQualifiedTypeName name="com.krakedev.inventario.entidades.Categoria"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.krakedev.utils.ConexionBdd"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.krakedev.persistencia.ClientesBDD"/>
+    <fullyQualifiedTypeName name="com.krakedev.excepciones.KrakeDevException"/>
+    <fullyQualifiedTypeName name="com.krakedev.entidades.Cliente"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="com.krakedev.evaluacion.persistencia.TestConexionBDD"/>
+    <fullyQualifiedTypeName name="com.krakedev.evaluacion.excepciones.KrakeException"/>
+    <fullyQualifiedTypeName name="com.krakedev.evaluacion.persistencia.HistorialBDD"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="com.krakedev.evaluacion.entidades.Categoria"/>
+    <fullyQualifiedTypeName name="com.krakedev.evaluacion.utils.ConexionBDD"/>
 </qualifiedTypeNameHistroy>
